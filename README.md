@@ -1,8 +1,11 @@
 # Artemis Financial Practices for Secure Software
 
 **Course:** CS-305 – Secure Software Development
+
 **Student:** Hamna Khalid
+
 **Instructor:** Dr. Ross Foultz
+
 **Date:** December 16, 2025
 
 
@@ -128,7 +131,10 @@ It reinforced the mindset that **security is not a feature—it’s a process** 
 ### Author
 
 **Hamna Khalid**
+
 Bachelor’s in Computer Science – Software Engineering Concentration
+
 Southern New Hampshire University
+
 hamna.khalid@snhu.edu
 
